@@ -1,4 +1,4 @@
-# Kubernetes and Cloud Native Associate Certification ☸️ :books: :horse_racing: :trumpet:
+# Kubernetes and Cloud Native Associate Certification - KCNA ☸️ :books: :horse_racing: :trumpet:
  
 <p align="center">
   <img width="680" height="300" src="img/kcna-header.png">
@@ -11,12 +11,12 @@ The exam has a [cost](https://training.linuxfoundation.org/certification/kuberne
 The exam is an online, proctored, and with multiple choices. These are the domains with their respective weights.
 
 ```mermaid
-pie title KCNA Certification categories
-  "Kubernetes Fundamentals" : 46%
-  "Container Orchestration" : 22%
-  "Cloud Native Architecture" : 16%
-  "Cloud Native Observability" : 8%
-  "Cloud Native Application Delivery" : 8%
+  pie title KCNA Certification categories
+    "Kubernetes Fundamentals" : 46%
+    "Container Orchestration" : 22%
+    "Cloud Native Architecture" : 16%
+    "Cloud Native Observability" : 8%
+    "Cloud Native Application Delivery" : 8%
 ```
 
 [Read more about the KCNA certification](https://www.cncf.io/certification/kcna/)
