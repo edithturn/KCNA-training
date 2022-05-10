@@ -48,7 +48,7 @@ The exam is an online, proctored, and with multiple choices. These are the domai
   <img width="700" height="380" src="img/cncf-landscape.png">
 </p>
 
-* [How to Pass your KCNA Exam - Brad McCoy ](https://blog.bradmccoy.io/how-to-pass-your-kcna-exam-cf98cfa7d70f)
+* :bell: :blush: Great article  [How to Pass your KCNA Exam - Brad McCoy ](https://blog.bradmccoy.io/how-to-pass-your-kcna-exam-cf98cfa7d70f)
 
 * [Saiyam Pathak KCNA Kubernetes and cloud native associate certification](https://www.youtube.com/watch?v=iGkFHB1kFZ0)
 
@@ -56,13 +56,12 @@ The exam is an online, proctored, and with multiple choices. These are the domai
   <img width="700" height="380" src="img/yv-saiyam-pathak.png">
 </p>
 
-* [freeCodeCamp.org CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) @andrewbrown](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s), lectures are free on youtube, if you want to access to practice test, flashcards and notes thre is a paid version of this course in exampro.
+* [freeCodeCamp.org CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) @andrewbrown](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s), the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co by @andrewbrown](https://app.exampro.co/student/journey/kcna)
 
 <p align="center">
   <img width="700" height="380" src="img/yt-andrew-brown.png">
 </p>
 
-* [exampro.co by @andrewbrown](https://app.exampro.co/student/journey/kcna)
 
 # Practice Exam :rocket:
 
@@ -74,29 +73,29 @@ The exam is an online, proctored, and with multiple choices. These are the domai
 
 # Study/exam Tips  :notes:  :pencil2: :swimmer:
 
-* After setting your exam date, plan your study time, I suggest consecutive days, the exam covers various concepts extensively, and it will be easy to remember what you learned the day before.
+:heavy_check_mark: After setting your exam date, plan your study time, I suggest consecutive days, the exam covers various concepts extensively, and it will be easy to remember what you learned the day before.
 
-* Take notes, use documents in Google Drive and use colors to highlight. Create your own graphics, use your best study technique.
+:heavy_check_mark: Take notes, use documents in Google Drive and use colors to highlight. Create your own graphics, use your best study technique.
 
-* Follow a more detailed structure to study, in this video made by Andrew Brown in the comments section you will find the topics covered in the exam in detail.
+:heavy_check_mark: Follow a more detailed structure to study, in this video made by Andrew Brown in the comments section you will find the topics covered in the exam in detail.
 
-* Use PostIts to easily remember concepts that are very difficult for you to assimilate, I used it to differentiate between StatefulSet and DaemonSet
+:heavy_check_mark: Use PostIts to easily remember concepts that are very difficult for you to assimilate, I used it to differentiate between StatefulSet and DaemonSet
 
-* It would be nice if I could find a study partner, it's one of the ways that works for me, my study partner was Aditiya who shared key resources that helped me pass the exam.
+:heavy_check_mark: It would be nice if I could find a study partner, it's one of the ways that works for me, my study partner was Aditiya who shared key resources that helped me pass the exam.
 
-* Deepens unclear concepts, do not stay with doubts, ask :)
+:heavy_check_mark: Deepens unclear concepts, do not stay with doubts, ask :)
 
-* On the day of the exam, sleep well, because even if they are questions with alternatives, if you are exhausted it will be difficult for you to understand the questions (it happened to me in the Practice exam)
+:heavy_check_mark: On the day of the exam, sleep well, because even if they are questions with alternatives, if you are exhausted it will be difficult for you to understand the questions (it happened to me in the Practice exam)
 
-* Check the name of your exam carefully, if it is wrong you will not be able to change it that same day and you will not be able to take the exam.
+:heavy_check_mark: Check the name of your exam carefully, if it is wrong you will not be able to change it that same day and you will not be able to take the exam.
 
-* Please be patient with your supervisor, the validation process took me about 50 minutes, you must stay awake while waiting for the validations. Stay awake :)
+:heavy_check_mark: Please be patient with your supervisor, the validation process took me about 50 minutes, you must stay awake while waiting for the validations. Stay awake :)
 
-* Keep your work area clear, and read the exam instructions on the official page, if you do not follow them to the letter you will delay the start of your exam.
+:heavy_check_mark: Keep your work area clear, and read the exam instructions on the official page, if you do not follow them to the letter you will delay the start of your exam.
 
-* Already in the exam, use the FLAGS, if you have any questions. Reserve time at the end for you to review them all.
+:heavy_check_mark: Already in the exam, use the FLAGS, if you have any questions. Reserve time at the end for you to review them all.
 
-* Check all the alternatives before choosing your final answer, some of them may be misleading."
+:heavy_check_mark: Check all the alternatives before choosing your final answer, some of them may be misleading."
 
 #  Certificate of Completion :art: :guitar:
 
