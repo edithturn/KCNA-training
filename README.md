@@ -12,11 +12,11 @@ The exam is an online, proctored, and with multiple choices. These are the domai
 
 ```mermaid
   pie title KCNA Certification categories
-    "Kubernetes Fundamentals" : 46%
-    "Container Orchestration" : 22%
-    "Cloud Native Architecture" : 16%
-    "Cloud Native Observability" : 8%
-    "Cloud Native Application Delivery" : 8%
+      "Kubernetes Fundamentals" : 46
+      "Container Orchestration" : 22
+      "Cloud Native Architecture" : 16
+      "Cloud Native Observability" : 8
+      "Cloud Native Application Delivery" : 8
 ```
 
 [Read more about the KCNA certification](https://www.cncf.io/certification/kcna/)
