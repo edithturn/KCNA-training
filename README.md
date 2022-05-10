@@ -31,7 +31,7 @@ The exam is an online, proctored, and with multiple choices. These are the domai
 
 
 <p align="center">
-  <img width="680" height="350" src="img/kubectl-commands.png">
+  <img width="700" height="380" src="img/kubectl-commands.png">
 </p>
 
 
