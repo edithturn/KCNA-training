@@ -64,10 +64,6 @@ The exam is an online, proctored, and with multiple choices. These are the domai
 
 * [exampro.co by @andrewbrown](https://app.exampro.co/student/journey/kcna)
 
-<p align="center">
-  <img width="680" height="300" src="img/yt-andrew-brown.png">
-</p>
-
 # Practice Exam :rocket:
 
 * [KCNA Practice Exam cloudqns.co.uk](https://cloudqns.co.uk/)
@@ -105,7 +101,7 @@ The exam is an online, proctored, and with multiple choices. These are the domai
 #  Certificate of Completion :art: :guitar:
 
 <p align="center">
-  <img width="450" height="320" src="img/KCNA-cert.png">
+  <img width="550" height="420" src="img/KCNA-cert.png">
 </p>
 
-[Badge](https://www.credly.com/badges/ab0f9d54-931a-412d-a6e3-9f0a04771c5e)
+:heavy_check_mark: [Badge](https://www.credly.com/badges/ab0f9d54-931a-412d-a6e3-9f0a04771c5e)
