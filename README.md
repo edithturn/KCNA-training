@@ -11,7 +11,8 @@ The exam has a [cost](https://training.linuxfoundation.org/certification/kuberne
 The exam is an online, proctored, and with multiple choices. These are the domains with their respective weights.
 
 ```mermaid
-  pie title KCNA Certification categories
+  pie showData
+      title KCNA Certification categories
       "Kubernetes Fundamentals" : 46
       "Container Orchestration" : 22
       "Cloud Native Architecture" : 16
