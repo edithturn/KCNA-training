@@ -1,46 +1,73 @@
-# Kubernetes and Cloud Native Associate Certification
-
+# Kubernetes and Cloud Native Associate Certification ☸️ :books: :horse_racing: :trumpet:
+ 
 <p align="center">
-  <img width="650" height="280" src="img/kcna-header.png">
+  <img width="680" height="300" src="img/kcna-header.png">
 </p>
 
-Kubernetes and Cloud Native Associate (KCNA) is a certification exam to understand fundamental Kubernetes knowledge and skills. The KCNA exam aims to prepare candidates to work with cloud-native technologies and earn more CNCF credentials, including CKA (Certified Kubernetes Administrator), CKAD (Certified Kubernetes Application Developer), and CKS (Certified Kubernetes Security Specialist). Kubernetes)
+**Kubernetes and Cloud Native Associate (KCNA)** is a certification exam to understand fundamental **Kubernetes** knowledge and skills. The **KCNA** exam aims to prepare candidates to work with cloud-native technologies and earn more CNCF credentials, including CKA (Certified Kubernetes Administrator), CKAD (Certified Kubernetes Application Developer), and CKS (Certified Kubernetes Security Specialist).
 
-The cost is Cost $250 for the Online Exam, and If you are willing to give it and you cannot afford it, you can get the [LiFT Scholarships](https://www.linkedin.com/posts/the-linux-foundation_learnlinux-liftscholar-itjobs-activity-6921156085902934016-ekb2?utm_source=linkedin_share&utm_medium=member_desktop_web) that are opened every year, stay tuned! :)
+The exam has a [cost](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) and, if you are willing to take this exam and you cannot afford it, you can get the [LiFT Scholarships](https://www.linkedin.com/posts/the-linux-foundation_learnlinux-liftscholar-itjobs-activity-6921156085902934016-ekb2?utm_source=linkedin_share&utm_medium=member_desktop_web) that are opened every year, stay tuned! :)
 
 The exam is an online, proctored, and with multiple choices. These are the domains with their respective weights.
 
 ```mermaid
 pie title KCNA Certification categories
-    "Kubernetes Fundamentals" : 46%
-    "Container Orchestration	" : 22%
-    "Cloud Native Architecture	" : 16%
-    "Cloud Native Observability" : 8%
-    "Cloud Native Application Delivery" : 8%
+  "Kubernetes Fundamentals" : 46%
+  "Container Orchestration" : 22%
+  "Cloud Native Architecture" : 16%
+  "Cloud Native Observability" : 8%
+  "Cloud Native Application Delivery" : 8%
 ```
 
 [Read more about the KCNA certification](https://www.cncf.io/certification/kcna/)
 
 
-# Resources
+# Resources :fuelpump:
 
 * [Oficial Kubernetes Documentation](https://kubernetes.io/docs/home/)
 
 * [Kubectl commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#create)
 
+
+<p align="center">
+  <img width="680" height="300" src="img/kubectl-commands.png">
+</p>
+
+
 * [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-configuration)
 
+<p align="center">
+  <img width="680" height="300" src="img/kubectl-cheatsheet.png">
+</p>
+
+
 * [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+
+<p align="center">
+  <img width="680" height="300" src="img/cncf-landscape.png">
+</p>
 
 * [How to Pass your KCNA Exam - Brad McCoy ](https://blog.bradmccoy.io/how-to-pass-your-kcna-exam-cf98cfa7d70f)
 
 * [Saiyam Pathak KCNA Kubernetes and cloud native associate certification](https://www.youtube.com/watch?v=iGkFHB1kFZ0)
 
+<p align="center">
+  <img width="680" height="300" src="img/yv-saiyam-pathak.png">
+</p>
+
 * [freeCodeCamp.org CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) @andrewbrown](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s), lectures are free on youtube, if you want to access to practice test, flashcards and notes thre is a paid version of this course in exampro.
+
+<p align="center">
+  <img width="680" height="300" src="img/yt-andrew-brown.png">
+</p>
 
 * [exampro.co by @andrewbrown](https://app.exampro.co/student/journey/kcna)
 
-# Practice Exam:
+<p align="center">
+  <img width="680" height="300" src="img/yt-andrew-brown.png">
+</p>
+
+# Practice Exam :rocket:
 
 * [KCNA Practice Exam cloudqns.co.uk](https://cloudqns.co.uk/)
 
@@ -48,7 +75,7 @@ pie title KCNA Certification categories
 
 * [KCNA Practice Questions](https://docs.google.com/forms/d/e/1FAIpQLSf576oZ_cz5DwC_5P7b63p8sT_dfn-IhFEq40xGEENXUXTMKw/viewform?embedded=true)
 
-# Study/exam Tips
+# Study/exam Tips  :notes:  :pencil2: :swimmer:
 
 * After setting your exam date, plan your study time, I suggest consecutive days, the exam covers various concepts extensively, and it will be easy to remember what you learned the day before.
 
@@ -74,7 +101,7 @@ pie title KCNA Certification categories
 
 * Check all the alternatives before choosing your final answer, some of them may be misleading."
 
-#  Certificate of Completion
+#  Certificate of Completion :art: :guitar:
 
 <p align="center">
   <img width="450" height="320" src="img/KCNA-cert.png">
