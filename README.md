@@ -25,7 +25,7 @@ The exam is an online, proctored, and with multiple choices. These are the domai
 
 # Resources :fuelpump:
 
-* [Oficial Kubernetes Documentation](https://kubernetes.io/docs/home/)
+* :star: [Oficial Kubernetes Documentation](https://kubernetes.io/docs/home/)
 
 * [Kubectl commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#create)
 
@@ -56,7 +56,7 @@ The exam is an online, proctored, and with multiple choices. These are the domai
   <img width="700" height="380" src="img/yv-saiyam-pathak.png">
 </p>
 
-* [freeCodeCamp.org CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) @andrewbrown](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s), the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co by @andrewbrown](https://app.exampro.co/student/journey/kcna)
+* [freeCodeCamp.org CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) @andrewbrown](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s), the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co by @andrewbrown](https://app.exampro.co/student/journey/kcna)(I used this last one)
 
 <p align="center">
   <img width="700" height="380" src="img/yt-andrew-brown.png">
@@ -81,7 +81,7 @@ The exam is an online, proctored, and with multiple choices. These are the domai
 
 :heavy_check_mark: Use PostIts shpin: to easily remember concepts that are very difficult for you to assimilate, I used it to differentiate between Deployments, StatefulSets vs DaemonSets.
 
-:heavy_check_mark: It would be nice if I could find a study partner, it's one of the ways that works for me, my study partner was (Aditya Narayan)(https://www.linkedin.com/in/aditya-narayan-nayak/) who shared key resources that helped me pass the exam.
+:heavy_check_mark: It would be nice if I could find a study partner, it's one of the ways that works for me, my study partner were [Aditya Narayan](https://www.linkedin.com/in/aditya-narayan-nayak/) who shared key resources and [Christian Rebischke](https://twitter.com/Sh1bumi) who I asked a lot.
 
 :heavy_check_mark: Deepens unclear concepts, do not stay with doubts, make questions :)
 
