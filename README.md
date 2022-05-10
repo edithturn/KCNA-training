@@ -77,25 +77,28 @@ The exam is an online, proctored, and with multiple choices. These are the domai
 
 :heavy_check_mark: Take notes, use documents in Google Drive and use colors to highlight. Create your own graphics, use your best study technique.
 
-:heavy_check_mark: Follow a more detailed structure to study, in this video made by Andrew Brown in the comments section you will find the topics covered in the exam in detail.
+:heavy_check_mark: Follow a more detailed structure to study, in this video made by Andrew Brown in the comments section you will find the topics covered in the exam in detail. :vertical_traffic_light:
 
-:heavy_check_mark: Use PostIts to easily remember concepts that are very difficult for you to assimilate, I used it to differentiate between StatefulSet and DaemonSet
+:heavy_check_mark: Use PostIts shpin: to easily remember concepts that are very difficult for you to assimilate, I used it to differentiate between Deployments, StatefulSets vs DaemonSets.
 
-:heavy_check_mark: It would be nice if I could find a study partner, it's one of the ways that works for me, my study partner was Aditiya who shared key resources that helped me pass the exam.
+:heavy_check_mark: It would be nice if I could find a study partner, it's one of the ways that works for me, my study partner was (Aditya Narayan)(https://www.linkedin.com/in/aditya-narayan-nayak/) who shared key resources that helped me pass the exam.
 
-:heavy_check_mark: Deepens unclear concepts, do not stay with doubts, ask :)
+:heavy_check_mark: Deepens unclear concepts, do not stay with doubts, make questions :)
 
-:heavy_check_mark: On the day of the exam, sleep well, because even if they are questions with alternatives, if you are exhausted it will be difficult for you to understand the questions (it happened to me in the Practice exam)
+:heavy_check_mark: On the day of the exam, sleep well, because even if they are questions with alternatives, if you are exhausted it will be difficult for you to understand the questions.
 
 :heavy_check_mark: Check the name of your exam carefully, if it is wrong you will not be able to change it that same day and you will not be able to take the exam.
 
-:heavy_check_mark: Please be patient with your supervisor, the validation process took me about 50 minutes, you must stay awake while waiting for the validations. Stay awake :)
+:heavy_check_mark: Please be patient with your supervisor, the validation process took me about 50 minutes, you must stay awake while waiting for the validations. :)
 
-:heavy_check_mark: Keep your work area clear, and read the exam instructions on the official page, if you do not follow them to the letter you will delay the start of your exam.
+:heavy_check_mark: Keep your work area clear, and read the exam instructions on the [official page](https://docs.linuxfoundation.org/tc-docs/certification/important-instructions-kcna), if you do not follow them to the letter you will delay the start of your exam.
 
-:heavy_check_mark: Already in the exam, use the FLAGS, if you have any questions. Reserve time at the end for you to review them all.
+:heavy_check_mark: Already in the exam, use the **FLAGS** :flags:, if you have any questions. Reserve time at the end for you to review them all.
 
 :heavy_check_mark: Check all the alternatives before choosing your final answer, some of them may be misleading."
+
+:herb: Do your best and learn as much as you can, that's what matters most.
+
 
 #  Certificate of Completion :art: :guitar:
 
