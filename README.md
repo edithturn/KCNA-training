@@ -38,14 +38,14 @@ The exam is an online, proctored, and with multiple choices. These are the domai
 * [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-configuration)
 
 <p align="center">
-  <img width="680" height="300" src="img/kubectl-cheatsheet.png">
+  <img width="700" height="380" src="img/kubectl-cheatsheet.png">
 </p>
 
 
 * [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 
 <p align="center">
-  <img width="680" height="300" src="img/cncf-landscape.png">
+  <img width="700" height="380" src="img/cncf-landscape.png">
 </p>
 
 * [How to Pass your KCNA Exam - Brad McCoy ](https://blog.bradmccoy.io/how-to-pass-your-kcna-exam-cf98cfa7d70f)
@@ -53,13 +53,13 @@ The exam is an online, proctored, and with multiple choices. These are the domai
 * [Saiyam Pathak KCNA Kubernetes and cloud native associate certification](https://www.youtube.com/watch?v=iGkFHB1kFZ0)
 
 <p align="center">
-  <img width="680" height="300" src="img/yv-saiyam-pathak.png">
+  <img width="700" height="380" src="img/yv-saiyam-pathak.png">
 </p>
 
 * [freeCodeCamp.org CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) @andrewbrown](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s), lectures are free on youtube, if you want to access to practice test, flashcards and notes thre is a paid version of this course in exampro.
 
 <p align="center">
-  <img width="680" height="300" src="img/yt-andrew-brown.png">
+  <img width="700" height="380" src="img/yt-andrew-brown.png">
 </p>
 
 * [exampro.co by @andrewbrown](https://app.exampro.co/student/journey/kcna)
