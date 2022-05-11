@@ -125,7 +125,9 @@ This is the certificate you get after certification with an official badged.
 
 :heavy_check_mark: [Badge](https://www.credly.com/badges/ab0f9d54-931a-412d-a6e3-9f0a04771c5e)
 
-If you are interested in more Kubernetes certifications, hese is the list of them:
+# Next Steps :unlock:
+
+If you are interested in more Kubernetes certifications, hese is the list of them (Click :point_down: on each one to learn more) 
 
 ```mermaid
   flowchart LR
@@ -137,6 +139,7 @@ If you are interested in more Kubernetes certifications, hese is the list of the
       click CKA href "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/" _blank
       click CKS href "https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/" "Open this in a new tab" _blank
 ```
+
 
 * Kubernetes and Cloud Native Associate (KCNA)
 * Certified Kubernetes Application Developer (CKAD)
