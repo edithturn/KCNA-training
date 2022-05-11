@@ -63,13 +63,13 @@ Use the search box to get complete information about the Kubernetes resource you
 </p>
 
 
-:seedling: [Saiyam Pathak KCNA Kubernetes and cloud native associate certification](https://www.youtube.com/watch?v=iGkFHB1kFZ0)
+:seedling: [KCNA Kubernetes and cloud native associate certification](https://www.youtube.com/watch?v=iGkFHB1kFZ0) by Saiyam Pathak.
 
 <p align="center">
-  <img width="700" height="380" src="img/yv-saiyam-pathak.png">
+  <img width="600" height="380" src="img/yv-saiyam-pathak.png">
 </p>
 
-:paw_prints: [freeCodeCamp.org CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) @andrewbrown](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s), the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co by @andrewbrown](https://app.exampro.co/student/journey/kcna)(I used this last one)
+:paw_prints: [freeCodeCamp.org CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA)](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s) by @andrewbrown, the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co](https://app.exampro.co/student/journey/kcna)(I used this last one)
 
 <p align="center">
   <img width="700" height="380" src="img/yt-andrew-brown.png">
@@ -84,7 +84,7 @@ Use the search box to get complete information about the Kubernetes resource you
 
 * [KCNA Practice Questions](https://docs.google.com/forms/d/e/1FAIpQLSf576oZ_cz5DwC_5P7b63p8sT_dfn-IhFEq40xGEENXUXTMKw/viewform?embedded=true)
 
-# Study/exam Tips  :notes:  :pencil2: :swimmer:
+# Study Tips  :notes:  :pencil2: :swimmer:
 
 :heavy_check_mark: After setting your exam date, plan your study time, I suggest consecutive days, the exam covers various concepts extensively, and it will be easy to remember what you learned the day before.
 
@@ -106,6 +106,8 @@ Use the search box to get complete information about the Kubernetes resource you
 
 :heavy_check_mark: Keep your work area clear, and read the exam instructions on the [official page](https://docs.linuxfoundation.org/tc-docs/certification/important-instructions-kcna), if you do not follow them to the letter you will delay the start of your exam.
 
+# Exam Tips  :notes:  :snowman: :swimmer:
+
 :heavy_check_mark: Already in the exam, use the **FLAGS** :flags:, if you have any questions. Reserve time at the end for you to review them all.
 
 :heavy_check_mark: Check all the alternatives before choosing your final answer, some of them may be misleading."
@@ -115,8 +117,28 @@ Use the search box to get complete information about the Kubernetes resource you
 
 #  Certificate of Completion :art: :guitar:
 
+This is the certificate you get after certification with an official badged.
+
 <p align="center">
   <img width="550" height="420" src="img/KCNA-cert.png">
 </p>
 
 :heavy_check_mark: [Badge](https://www.credly.com/badges/ab0f9d54-931a-412d-a6e3-9f0a04771c5e)
+
+If you are interested in more Kubernetes certifications, hese is the list of them:
+
+```mermaid
+  flowchart LR
+      KCNA-->CKAD
+      CKAD-->CKA
+      CKA-->CKS
+      click KCNA "https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/" _blank
+      click CKAD "https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/" "Open this in a new tab" _blank
+      click CKA href "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/" _blank
+      click CKS href "https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/" "Open this in a new tab" _blank
+```
+
+* Kubernetes and Cloud Native Associate (KCNA)
+* Certified Kubernetes Application Developer (CKAD)
+* Certified Kubernetes Administrator (CKA)
+* Certified Kubernetes Security Specialist (CKS)
