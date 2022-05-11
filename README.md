@@ -59,17 +59,17 @@ Use the search box to get complete information about the Kubernetes resource you
 
 
 <p align="center">
-  <img width="700" height="380" src="img/artice-how-to-pass-ckna.png">
+  <img width="600" height="380" src="img/artice-how-to-pass-ckna.png">
 </p>
 
 
 :seedling: [KCNA Kubernetes and cloud native associate certification](https://www.youtube.com/watch?v=iGkFHB1kFZ0) by Saiyam Pathak.
 
 <p align="center">
-  <img width="600" height="380" src="img/yv-saiyam-pathak.png">
+  <img width="700" height="380" src="img/yv-saiyam-pathak.png">
 </p>
 
-:paw_prints: [freeCodeCamp.org CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA)](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s) by @andrewbrown, the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co](https://app.exampro.co/student/journey/kcna)(I used this last one)
+:paw_prints: [CNCF Kubernetes and Cloud Native Associate Certification Course](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s) by **@andrewbrown** in **freeCodeCamp.org**, the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co](https://app.exampro.co/student/journey/kcna)(I used this last one)
 
 <p align="center">
   <img width="700" height="380" src="img/yt-andrew-brown.png">
@@ -127,7 +127,7 @@ This is the certificate you get after certification with an official badged.
 
 # Next Steps :unlock:
 
-If you are interested in more Kubernetes certifications, hese is the list of them (Click :point_down: on each one to learn more) 
+If you are interested in more Kubernetes certifications, here a list of them (Click :point_down: on each one to learn more) 
 
 ```mermaid
   flowchart LR
