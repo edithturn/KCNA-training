@@ -20,43 +20,56 @@ The exam is an online, proctored, and with multiple choices. These are the domai
       "Cloud Native Application Delivery" : 8
 ```
 
-[Read more about the KCNA certification](https://www.cncf.io/certification/kcna/)
+:zap: Read more about the [KCNA Certification official site](https://www.cncf.io/certification/kcna/)
 
 
 # Resources :fuelpump:
 
-* :star: [Oficial Kubernetes Documentation](https://kubernetes.io/docs/home/)
-
-* [Kubectl commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#create)
-
+:star: The [Oficial Kubernetes Documentation](https://kubernetes.io/docs/home/) site is the ideal place to clear your doubts, deepen the topics, and obtain examples. Everything about Kubernetes is on the official site, maintained/translated by the community.
+Use the search box to get complete information about the Kubernetes resource you are looking for.
 
 <p align="center">
-  <img width="700" height="380" src="img/kubectl-commands.png">
+  <img width="700" height="380" src="img/oficial-site-kubernetes.png">
 </p>
 
 
-* [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-configuration)
+:dolphin: It is very important that you read  [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-configuration) page, that has the basics to configure kubectl, create, view, find, update, patch, edit, scale, and delete resources, also interact with running Pods, copy files and directories to and from containers, interacting with Deployments and Services, interacting with Nodes and cluster, formatting output,
+
 
 <p align="center">
-  <img width="700" height="380" src="img/kubectl-cheatsheet.png">
+  <img width="700" height="380" src="img/kubectl-cheat-sheet.png">
+</p>
+
+:bird: On this page [Kubectl Commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-) you will find all the commands used to create Kubernetes resources in an imperative way (without a file in between), for this exam you don't need to learn all those, but if you need to know the basics, for example : how to create resources, how to check if they are created, how to get more detail about them, how to access them for troubleshooting purposes, also how to review the logs of those resources.
+
+
+<p align="center">
+  <img width="700" height="380" src="img/getting-started.png">
 </p>
 
 
-* [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+
+:crocodile: You need to know the CNCF ecosystem with [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) which attempts to categorize most of the projects and product offerings in the cloud native space.
 
 <p align="center">
-  <img width="700" height="380" src="img/cncf-landscape.png">
+  <img width="700" height="380" src="img/landscape.gif">
 </p>
 
-* :bell: :blush: Great article  [How to Pass your KCNA Exam - Brad McCoy ](https://blog.bradmccoy.io/how-to-pass-your-kcna-exam-cf98cfa7d70f)
+:bell: :blush: Great article  [How to Pass your KCNA Exam - Brad McCoy ](https://blog.bradmccoy.io/how-to-pass-your-kcna-exam-cf98cfa7d70f)
 
-* [Saiyam Pathak KCNA Kubernetes and cloud native associate certification](https://www.youtube.com/watch?v=iGkFHB1kFZ0)
+
+<p align="center">
+  <img width="700" height="380" src="img/artice-how-to-pass-ckna.png">
+</p>
+
+
+:seedling: [Saiyam Pathak KCNA Kubernetes and cloud native associate certification](https://www.youtube.com/watch?v=iGkFHB1kFZ0)
 
 <p align="center">
   <img width="700" height="380" src="img/yv-saiyam-pathak.png">
 </p>
 
-* [freeCodeCamp.org CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) @andrewbrown](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s), the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co by @andrewbrown](https://app.exampro.co/student/journey/kcna)(I used this last one)
+:paw_prints: [freeCodeCamp.org CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) @andrewbrown](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s), the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co by @andrewbrown](https://app.exampro.co/student/journey/kcna)(I used this last one)
 
 <p align="center">
   <img width="700" height="380" src="img/yt-andrew-brown.png">
