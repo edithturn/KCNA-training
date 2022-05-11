@@ -59,7 +59,7 @@ Use the search box to get complete information about the Kubernetes resource you
 
 
 <p align="center">
-  <img width="600" height="380" src="img/artice-how-to-pass-ckna.png">
+  <img width="600" height="300" src="img/artice-how-to-pass-ckna.png">
 </p>
 
 
