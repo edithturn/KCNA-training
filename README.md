@@ -145,7 +145,6 @@ This is the certificate you get after certification with an official badged.
   <img width="550" height="420" src="img/KCNA-cert.png">
 </p>
 
-:heavy_check_mark: [Badge](https://www.credly.com/earner/earned/badge/97348e0b-cf60-471c-bfc6-93f7b565eda0)
 
 # Next Steps :unlock:
 
