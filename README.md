@@ -33,7 +33,7 @@ Use the search box to get complete information about the Kubernetes resource you
 </p>
 
 
-:dolphin: It is very important that you read the Kubernetes page that contains a [list of commonly used kubectl commands and flags](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-configuration) page, that has the basics to configure `kubectl`, `create`, `view`, `find`, `update`, `patch`, `edit`, `scale`, and `delete` resources, also interact with running Pods, copy files and directories to and from containers, interacting with Deployments and Services, interacting with Nodes and cluster, formatting output,
+:dolphin: It is very important that you read the Kubernetes page that contains a [list of commonly used kubectl commands and flags](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-configuration) page, that has the basics to configure `kubectl`, `create`, `view`, `find`, `update`, `patch`, `edit`, `scale`, and `delete` resources, also interact with running Pods, copy files and directories to and from containers, interacting with Deployments and Services, interacting with Nodes and cluster, formatting output.
 
 
 <p align="center">
@@ -55,7 +55,7 @@ Use the search box to get complete information about the Kubernetes resource you
   <img width="700" height="380" src="img/landscape.gif">
 </p>
 
-Also, there a nice talk from Kubecon 2026, [Project Lightning Talk: A Curator's Guide to the CNCF Landscape](https://www.youtube.com/watch?v=Fh7s04iwOog) by Katherine Druckman, a nice talk to learn more about the CNCF landscape.
+Also, there an amazing talk from Kubecon 2026, [Project Lightning Talk: A Curator's Guide to the CNCF Landscape](https://www.youtube.com/watch?v=Fh7s04iwOog) by Katherine Druckman, a nice talk to learn more about the CNCF landscape.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Fh7s04iwOog" title="Play on YouTube">
@@ -67,9 +67,7 @@ Also, there a nice talk from Kubecon 2026, [Project Lightning Talk: A Curator's 
 If this is your first time taking the exam, make sure to review important information from these resources I used and I considered they are great:
 
 
-**Dive into Cloud Native** - Kubernetes KCNA Certified Course; from James Spurin. The full course is available on DiveInto.com.
-
-[Dive into Cloud Native - Kubernetes KCNA Certified Course (Sample Content)](https://www.youtube.com/playlist?list=PLeIwMz0ukkhHnQEO37Z5ZQHuSTRU60CQQ), playlist by **James Spurin**.
+[Dive into Cloud Native - Kubernetes KCNA Certified Course (Sample Content)](https://www.youtube.com/playlist?list=PLeIwMz0ukkhHnQEO37Z5ZQHuSTRU60CQQ), playlist by **James Spurin**. Kubernetes KCNA Certified Course. The full course is available on DiveInto.com.
 
 <p align="center">
   <a href="https://www.youtube.com/playlist?list=PLeIwMz0ukkhHnQEO37Z5ZQHuSTRU60CQQ" title="Open playlist on YouTube">
@@ -78,12 +76,14 @@ If this is your first time taking the exam, make sure to review important inform
 </p>
 
 
-**Kubernetes and Cloud-Native Associate (KCNA)**
+[Kubernetes and Cloud-Native Associate (KCNA)](https://learn.kodekloud.com/user/courses/kubernetes-and-cloud-native-associate-kcna?refererPath=%2Fuser%2Flearning-paths%2Fkubestronaut&refererTitle=Kubestronaut)
 This is a beginner-friendly course designed to help you prepare for the Kubernetes and Cloud Native Associate (KCNA) certification. It includes a mock exam and hundreds of practice questions to support your learning. The course is 9.17 hours long and is created by Mumshad Mannambeth, Founder and CEO of KodeKloud.
 
 <p align="center">
-  <img width="700" height="380" src="img/kodekloud.png" alt="KodeKloud — Kubernetes and Cloud-Native Associate (KCNA) course">
+  <img width="600" height="380" src="img/kodekloud.png" alt="KodeKloud — Kubernetes and Cloud-Native Associate (KCNA) course">
 </p>
+
+
 
 [CNCF Kubernetes and Cloud Native Associate Certification Course](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s) by **@andrewbrown** in **freeCodeCamp.org**, the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co](https://app.exampro.co/student/journey/kcna)(I used this last one)
 
