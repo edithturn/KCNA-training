@@ -4,20 +4,20 @@
   <img width="680" height="300" src="img/kcna-header.png">
 </p>
 
-**Kubernetes and Cloud Native Associate (KCNA)** is a certification exam to understand fundamental **Kubernetes** knowledge and skills. The **KCNA** exam aims to prepare candidates to work with cloud-native technologies and earn more CNCF credentials, including CKA (Certified Kubernetes Administrator), CKAD (Certified Kubernetes Application Developer), and CKS (Certified Kubernetes Security Specialist).
+The **Kubernetes and Cloud Native Associate (KCNA)** is a certification exam that helps you show your basic knowledge of **Kubernetes** and the broader **cloud native ecosystem**. It proves that you understand the main concepts and foundational skills needed in this area. After passing the exam, you can share your badge on LinkedIn, LFX, GitHub, and other profiles to connect better with the open source community and stand out to future employers.
 
-The exam has a [cost](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) and, if you are willing to take this exam and you cannot afford it, you can get the [LiFT Scholarships](https://www.linkedin.com/posts/the-linux-foundation_learnlinux-liftscholar-itjobs-activity-6921156085902934016-ekb2?utm_source=linkedin_share&utm_medium=member_desktop_web) that are opened every year, stay tuned! :)
 
-The exam is an online, proctored, and with multiple choices. These are the domains with their respective weights.
+The exam has a [cost](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) and, if you are willing to take this exam and you cannot afford it, you can get the [LiFT Scholarships](https://www.linuxfoundation.org/about/lift-scholarships) that are opened every year, stay tuned! :)
+
+The exam is an online, proctored, and with multiple choices (60 questions). These are the domains with their respective weights.
 
 ```mermaid
   pie showData
       title KCNA Certification categories
-      "Kubernetes Fundamentals" : 46
-      "Container Orchestration" : 22
-      "Cloud Native Architecture" : 16
-      "Cloud Native Observability" : 8
-      "Cloud Native Application Delivery" : 8
+      "Kubernetes Fundamentals" : 44
+      "Container Orchestration" : 28
+      "Cloud Native Application Delivery" : 16
+      "Cloud Native Architecture" : 12
 ```
 
 :zap: Read more about the [KCNA Certification official site](https://www.cncf.io/certification/kcna/)
@@ -33,14 +33,14 @@ Use the search box to get complete information about the Kubernetes resource you
 </p>
 
 
-:dolphin: It is very important that you read  [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-configuration) page, that has the basics to configure kubectl, create, view, find, update, patch, edit, scale, and delete resources, also interact with running Pods, copy files and directories to and from containers, interacting with Deployments and Services, interacting with Nodes and cluster, formatting output,
+:dolphin: It is very important that you read the Kubernetes page that contains a [list of commonly used kubectl commands and flags](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-configuration) page, that has the basics to configure `kubectl`, `create`, `view`, `find`, `update`, `patch`, `edit`, `scale`, and `delete` resources, also interact with running Pods, copy files and directories to and from containers, interacting with Deployments and Services, interacting with Nodes and cluster, formatting output,
 
 
 <p align="center">
   <img width="700" height="380" src="img/kubectl-cheat-sheet.png">
 </p>
 
-:bird: On this page [Kubectl Commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-) you will find all the commands used to create Kubernetes resources in an imperative way (without a file in between), for this exam you don't need to learn all those, but if you need to know the basics, for example : how to create resources, how to check if they are created, how to get more detail about them, how to access them for troubleshooting purposes, also how to review the logs of those resources.
+:bird: On this page [Kubectl Commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-) you will find all the commands used to create Kubernetes resources in an imperative way (without a file in between), for this exam you don't need to learn all those, but if you need to know the basics, for example : how to create resources, how to check if they are created, how to get more detail about them, how to access them for troubleshooting purposes, also how to review the logs of those resources. This is my favority part of the documentation but look like it is deprecated, please make sure you are using the new one [kubectl reference](https://kubernetes.io/docs/reference/kubectl/generated/)
 
 
 <p align="center">
@@ -55,32 +55,52 @@ Use the search box to get complete information about the Kubernetes resource you
   <img width="700" height="380" src="img/landscape.gif">
 </p>
 
-:bell: :blush: Great article  [How to Pass your KCNA Exam - Brad McCoy ](https://blog.bradmccoy.io/how-to-pass-your-kcna-exam-cf98cfa7d70f)
-
+Also, there a nice talk from Kubecon 2026, [Project Lightning Talk: A Curator's Guide to the CNCF Landscape](https://www.youtube.com/watch?v=Fh7s04iwOog) by Katherine Druckman, a nice talk to learn more about the CNCF landscape.
 
 <p align="center">
-  <img width="600" height="300" src="img/artice-how-to-pass-ckna.png">
+  <a href="https://www.youtube.com/watch?v=Fh7s04iwOog" title="Play on YouTube">
+    <img width="700" height="380" src="https://img.youtube.com/vi/Fh7s04iwOog/maxresdefault.jpg" alt="Project Lightning Talk: A Curator's Guide to the CNCF Landscape - Katherine Druckman">
+  </a>
 </p>
 
 
-:seedling: [KCNA Kubernetes and cloud native associate certification](https://www.youtube.com/watch?v=iGkFHB1kFZ0) by Saiyam Pathak.
+If this is your first time taking the exam, make sure to review important information from these resources I used and I considered they are great:
+
+
+**Dive into Cloud Native** - Kubernetes KCNA Certified Course; from James Spurin. The full course is available on DiveInto.com.
+
+[Dive into Cloud Native - Kubernetes KCNA Certified Course (Sample Content)](https://www.youtube.com/playlist?list=PLeIwMz0ukkhHnQEO37Z5ZQHuSTRU60CQQ), playlist by **James Spurin**.
 
 <p align="center">
-  <img width="700" height="380" src="img/yv-saiyam-pathak.png">
+  <a href="https://www.youtube.com/playlist?list=PLeIwMz0ukkhHnQEO37Z5ZQHuSTRU60CQQ" title="Open playlist on YouTube">
+    <img width="700" height="380" src="img/james-playlist.png" alt="Dive into Cloud Native - Kubernetes KCNA Certified Course (Sample Content) - James Spurin">
+  </a>
 </p>
 
-:paw_prints: [CNCF Kubernetes and Cloud Native Associate Certification Course](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s) by **@andrewbrown** in **freeCodeCamp.org**, the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co](https://app.exampro.co/student/journey/kcna)(I used this last one)
+
+**Kubernetes and Cloud-Native Associate (KCNA)**
+This is a beginner-friendly course designed to help you prepare for the Kubernetes and Cloud Native Associate (KCNA) certification. It includes a mock exam and hundreds of practice questions to support your learning. The course is 9.17 hours long and is created by Mumshad Mannambeth, Founder and CEO of KodeKloud.
+
+<p align="center">
+  <img width="700" height="380" src="img/kodekloud.png" alt="KodeKloud — Kubernetes and Cloud-Native Associate (KCNA) course">
+</p>
+
+[CNCF Kubernetes and Cloud Native Associate Certification Course](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s) by **@andrewbrown** in **freeCodeCamp.org**, the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co](https://app.exampro.co/student/journey/kcna)(I used this last one)
 
 <p align="center">
   <img width="700" height="380" src="img/yt-andrew-brown.png">
 </p>
 
+Also, if you are taking the exam again, there are some very useful practice exams that I used. They helped me earn the certification again after two years. I renewed my certification using these practice exams on Udemy by James Spurin.
+
+<p align="center">
+  <img width="450" height="380" src="img/udemy.png" alt="KCNA practice exams on Udemy — James Spurin">
+</p>
 
 # Practice Exam :rocket:
 
 * [KCNA Practice Exam cloudqns.co.uk](https://cloudqns.co.uk/)
 
-* [101daysofdevops.com Kubernetes and Cloud Essentials](https://www.101daysofdevops.com/courses/kubernetes-and-cloud-native-essentials-lfs250/)
 
 * [KCNA Practice Questions](https://docs.google.com/forms/d/e/1FAIpQLSf576oZ_cz5DwC_5P7b63p8sT_dfn-IhFEq40xGEENXUXTMKw/viewform?embedded=true)
 
@@ -97,6 +117,8 @@ Use the search box to get complete information about the Kubernetes resource you
 :heavy_check_mark: It would be nice if I could find a study partner, it's one of the ways that works for me, my study partner were [Aditya Narayan](https://www.linkedin.com/in/aditya-narayan-nayak/) who shared key resources and [Christian Rebischke](https://twitter.com/Sh1bumi) who I asked a lot.
 
 :heavy_check_mark: Deepens unclear concepts, do not stay with doubts, make questions :)
+
+:heavy_check_mark: If you are going to use AI to speed your learning process, make sure to understand the fundamentals, ask AI to teach the fundamental in a simple way, with examples and use cases so you can learn better.
 
 :heavy_check_mark: On the day of the exam, sleep well, because even if they are questions with alternatives, if you are exhausted it will be difficult for you to understand the questions.
 
@@ -123,7 +145,7 @@ This is the certificate you get after certification with an official badged.
   <img width="550" height="420" src="img/KCNA-cert.png">
 </p>
 
-:heavy_check_mark: [Badge](https://www.credly.com/badges/ab0f9d54-931a-412d-a6e3-9f0a04771c5e)
+:heavy_check_mark: [Badge](https://www.credly.com/earner/earned/badge/97348e0b-cf60-471c-bfc6-93f7b565eda0)
 
 # Next Steps :unlock:
 
