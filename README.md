@@ -91,6 +91,8 @@ This is a beginner-friendly course designed to help you prepare for the Kubernet
   <img width="700" height="380" src="img/yt-andrew-brown.png">
 </p>
 
+Note: It was updated slightly recently.
+
 Also, if you are taking the exam again, there are some very useful practice exams that I used. They helped me earn the certification again after two years. I renewed my certification using these practice exams on Udemy by James Spurin.
 
 <p align="center">
